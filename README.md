@@ -1,5 +1,5 @@
 # March Madness Prediction
-Authors: Connor Finn, Riley Greene
+Authors: Connor Finn, Riley Greene <dir>
 Date: January, 2020
 
 ### Project Overview
