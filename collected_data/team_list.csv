@@ -1,218 +1,262 @@
 ,TeamID,TeamName,FirstD1Season,LastD1Season,SrNames
-2,1103,Akron,1985,2019,akron
-3,1104,Alabama,1985,2019,alabama
-5,1106,Alabama St,1985,2019,alabama-state
-6,1107,Albany NY,2000,2019,albany-ny
-9,1110,American Univ,1985,2019,american
-11,1112,Arizona,1985,2019,arizona
-12,1113,Arizona St,1985,2019,arizona-state
-13,1114,Ark Little Rock,1985,2019,arkansas-little-rock
-14,1115,Ark Pine Bluff,1999,2019,arkansas-pine-bluff
-15,1116,Arkansas,1985,2019,arkansas
-19,1120,Auburn,1985,2019,auburn
-21,1122,Austin Peay,1985,2019,austin-peay
-23,1124,Baylor,1985,2019,baylor
-24,1125,Belmont,2000,2019,belmont
-26,1127,Binghamton,2002,2019,binghamton
-28,1129,Boise St,1985,2019,boise-state
-29,1130,Boston College,1985,2019,boston-college
-30,1131,Boston Univ,1985,2019,boston-university
-36,1137,Bucknell,1985,2019,bucknell
-37,1138,Buffalo,1992,2019,buffalo
-38,1139,Butler,1985,2019,butler
-39,1140,BYU,1985,2019,brigham-young
-41,1142,Cal Poly SLO,1995,2019,cal-poly
-42,1143,California,1985,2019,california
-50,1151,Chattanooga,1985,2019,chattanooga
-52,1153,Cincinnati,1985,2019,cincinnati
-54,1155,Clemson,1985,2019,clemson
-55,1156,Cleveland St,1985,2019,cleveland-state
-56,1157,Coastal Car,1987,2019,coastal-carolina
-57,1158,Col Charleston,1992,2019,college-of-charleston
-59,1160,Colorado,1985,2019,colorado
-60,1161,Colorado St,1985,2019,colorado-state
-62,1163,Connecticut,1985,2019,connecticut
-64,1165,Cornell,1985,2019,cornell
-65,1166,Creighton,1985,2019,creighton
-66,1167,CS Bakersfield,2008,2019,cal-state-bakersfield
-67,1168,CS Fullerton,1985,2019,cal-state-fullerton
-68,1169,CS Northridge,1991,2019,cal-state-northridge
-71,1172,Davidson,1985,2019,davidson
-72,1173,Dayton,1985,2019,dayton
-73,1174,Delaware,1985,2019,delaware
-77,1178,Detroit,1985,2019,detroit-mercy
-80,1181,Duke,1985,2019,duke
-83,1184,E Kentucky,1985,2019,eastern-kentucky
-85,1186,E Washington,1985,2019,eastern-washington
-89,1190,ETSU,1985,2019,east-tennessee-state
-91,1192,F Dickinson,1985,2019,fairleigh-dickinson
-94,1195,FL Gulf Coast,2008,2019,florida-gulf-coast
-95,1196,Florida,1985,2019,florida
-98,1199,Florida St,1985,2019,florida-state
-100,1201,Fresno St,1985,2019,fresno-state
-102,1203,G Washington,1985,2019,george-washington
-105,1206,George Mason,1985,2019,george-mason
-106,1207,Georgetown,1985,2019,georgetown
-107,1208,Georgia,1985,2019,georgia
-108,1209,Georgia St,1985,2019,georgia-state
-109,1210,Georgia Tech,1985,2019,georgia-tech
-110,1211,Gonzaga,1985,2019,gonzaga
-113,1214,Hampton,1996,2019,hampton
-116,1217,Harvard,1985,2019,harvard
-117,1218,Hawaii,1985,2019,hawaii
-120,1221,Holy Cross,1985,2019,holy-cross
-121,1222,Houston,1985,2019,houston
-127,1228,Illinois,1985,2019,illinois
-130,1231,Indiana,1985,2019,indiana
-131,1232,Indiana St,1985,2019,indiana-state
-132,1233,Iona,1985,2019,iona
-133,1234,Iowa,1985,2019,iowa
-134,1235,Iowa St,1985,2019,iowa-state
-139,1240,Jacksonville St,1996,2019,jacksonville-state
-140,1241,James Madison,1985,2019,james-madison
-141,1242,Kansas,1985,2019,kansas
-142,1243,Kansas St,1985,2019,kansas-state
-144,1245,Kent,1985,2019,kent-state
-145,1246,Kentucky,1985,2019,kentucky
-146,1247,La Salle,1985,2019,la-salle
-147,1248,Lafayette,1985,2019,lafayette
-148,1249,Lamar,1985,2019,lamar
-149,1250,Lehigh,1985,2019,lehigh
-150,1251,Liberty,1989,2019,liberty
-151,1252,Lipscomb,2003,2019,lipscomb
-152,1253,Long Beach St,1985,2019,long-beach-state
-153,1254,Long Island,1985,2019,long-island-university
-156,1257,Louisville,1985,2019,louisville
-158,1259,Loyola MD,1985,2019,loyola-md
-159,1260,Loyola-Chicago,1985,2019,loyola-il
-160,1261,LSU,1985,2019,louisiana-state
-163,1264,Manhattan,1985,2019,manhattan
-165,1266,Marquette,1985,2019,marquette
-166,1267,Marshall,1985,2019,marshall
-167,1268,Maryland,1985,2019,maryland
-168,1269,Massachusetts,1985,2019,massachusetts
-171,1272,Memphis,1985,2019,memphis
-172,1273,Mercer,1985,2019,mercer
-173,1274,Miami FL,1986,2019,miami-fl
-175,1276,Michigan,1985,2019,michigan
-176,1277,Michigan St,1985,2019,michigan-state
-177,1278,Minnesota,1985,2019,minnesota
-178,1279,Mississippi,1985,2019,mississippi
-179,1280,Mississippi St,1985,2019,mississippi-state
-180,1281,Missouri,1985,2019,missouri
-184,1285,Montana,1985,2019,montana
-186,1287,Morehead St,1985,2019,morehead-state
-187,1288,Morgan St,1985,2019,morgan-state
-189,1290,MS Valley St,1985,2019,mississippi-valley-state
-190,1291,Mt St Mary's,1989,2019,mount-st-marys
-191,1292,MTSU,1985,2019,middle-tennessee
-192,1293,Murray St,1985,2019,murray-state
-193,1294,N Colorado,2005,2019,northern-colorado
-194,1295,N Dakota St,2006,2019,north-dakota-state
-196,1297,N Kentucky,2013,2019,northern-kentucky
-198,1299,NC A&T,1985,2019,north-carolina-at
-199,1300,NC Central,2008,2019,north-carolina-central
-200,1301,NC State,1985,2019,north-carolina-state
-203,1304,Nebraska,1985,2019,nebraska
-204,1305,Nevada,1985,2019,nevada
-206,1307,New Mexico,1985,2019,new-mexico
-207,1308,New Mexico St,1985,2019,new-mexico-state
-208,1309,New Orleans,1985,2019,new-orleans
-212,1313,Norfolk St,1998,2019,norfolk-state
-213,1314,North Carolina,1985,2019,north-carolina
-214,1315,North Dakota,2009,2019,north-dakota
-215,1316,North Florida,2006,2019,north-florida
-216,1317,North Texas,1985,2019,north-texas
-217,1318,Northeastern,1985,2019,northeastern
-219,1320,Northern Iowa,1985,2019,northern-iowa
-220,1321,Northwestern,1985,2019,northwestern
-221,1322,Northwestern LA,1985,2019,northwestern-state
-222,1323,Notre Dame,1985,2019,notre-dame
-223,1324,Oakland,2000,2019,oakland
-224,1325,Ohio,1985,2019,ohio
-225,1326,Ohio St,1985,2019,ohio-state
-227,1328,Oklahoma,1985,2019,oklahoma
-228,1329,Oklahoma St,1985,2019,oklahoma-state
-229,1330,Old Dominion,1985,2019,old-dominion
-231,1332,Oregon,1985,2019,oregon
-232,1333,Oregon St,1985,2019,oregon-state
-233,1334,Pacific,1985,2019,pacific
-234,1335,Penn,1985,2019,pennsylvania
-235,1336,Penn St,1985,2019,penn-state
-237,1338,Pittsburgh,1985,2019,pittsburgh
-239,1340,Portland St,1999,2019,portland-state
-242,1343,Princeton,1985,2019,princeton
-243,1344,Providence,1985,2019,providence
-244,1345,Purdue,1985,2019,purdue
-246,1347,Radford,1985,2019,radford
-247,1348,Rhode Island,1985,2019,rhode-island
-249,1350,Richmond,1985,2019,richmond
-251,1352,Robert Morris,1985,2019,robert-morris
-254,1355,S Dakota St,2006,2019,south-dakota-state
-257,1358,Sam Houston St,1987,2019,sam-houston-state
-260,1361,San Diego St,1985,2019,san-diego-state
-263,1364,Santa Barbara,1985,2019,california-santa-barbara
-270,1371,Seton Hall,1985,2019,seton-hall
-271,1372,SF Austin,1987,2019,stephen-f-austin
-272,1373,Siena,1985,2019,siena
-273,1374,SMU,1985,2019,southern-methodist
-275,1376,South Carolina,1985,2019,south-carolina
-277,1378,South Florida,1985,2019,south-florida
-278,1379,Southern Miss,1985,2019,southern-mississippi
-279,1380,Southern Univ,1985,2019,southern
-281,1382,St Bonaventure,1985,2019,st-bonaventure
-284,1385,St John's,1985,2019,st-johns-ny
-285,1386,St Joseph's PA,1985,2019,saint-josephs
-286,1387,St Louis,1985,2019,saint-louis
-287,1388,St Mary's CA,1985,2019,saint-marys-ca
-288,1389,St Peter's,1985,2019,saint-peters
-289,1390,Stanford,1985,2019,stanford
-291,1392,Stony Brook,2000,2019,stony-brook
-292,1393,Syracuse,1985,2019,syracuse
-294,1395,TCU,1985,2019,texas-christian
-295,1396,Temple,1985,2019,temple
-296,1397,Tennessee,1985,2019,tennessee
-299,1400,Texas,1985,2019,texas
-300,1401,Texas A&M,1985,2019,texas-am
-302,1403,Texas Tech,1985,2019,texas-tech
-306,1407,Troy,1994,2019,troy
-308,1409,Tulsa,1985,2019,tulsa
-310,1411,TX Southern,1985,2019,texas-southern
-311,1412,UAB,1985,2019,alabama-birmingham
-312,1413,UC Davis,2005,2019,california-davis
-313,1414,UC Irvine,1985,2019,california-irvine
-316,1417,UCLA,1985,2019,ucla
-317,1418,ULL,1985,2019,louisiana-lafayette
-319,1420,UMBC,1987,2019,maryland-baltimore-county
-320,1421,UNC Asheville,1987,2019,north-carolina-asheville
-321,1422,UNC Greensboro,1992,2019,north-carolina-greensboro
-322,1423,UNC Wilmington,1985,2019,north-carolina-wilmington
-323,1424,UNLV,1985,2019,nevada-las-vegas
-324,1425,USC,1985,2019,southern-california
-326,1427,UT San Antonio,1985,2019,texas-san-antonio
-327,1428,Utah,1985,2019,utah
-328,1429,Utah St,1985,2019,utah-state
-330,1431,UTEP,1985,2019,texas-el-paso
-332,1433,VA Commonwealth,1985,2019,virginia-commonwealth
-333,1434,Valparaiso,1985,2019,valparaiso
-334,1435,Vanderbilt,1985,2019,vanderbilt
-335,1436,Vermont,1985,2019,vermont
-336,1437,Villanova,1985,2019,villanova
-337,1438,Virginia,1985,2019,virginia
-338,1439,Virginia Tech,1985,2019,virginia-tech
-342,1443,WKU,1985,2019,western-kentucky
-343,1444,W Michigan,1985,2019,western-michigan
-347,1448,Wake Forest,1985,2019,wake-forest
-348,1449,Washington,1985,2019,washington
-350,1451,Weber St,1985,2019,weber-state
-351,1452,West Virginia,1985,2019,west-virginia
-352,1453,WI Green Bay,1985,2019,green-bay
-353,1454,WI Milwaukee,1991,2019,milwaukee
-354,1455,Wichita St,1985,2019,wichita-state
-356,1457,Winthrop,1987,2019,winthrop
-357,1458,Wisconsin,1985,2019,wisconsin
-358,1459,Wofford,1996,2019,wofford
-359,1460,Wright St,1988,2019,wright-state
-360,1461,Wyoming,1985,2019,wyoming
-361,1462,Xavier,1985,2019,xavier
-362,1463,Yale,1985,2019,yale
+0,1101,Abilene Chr,2014,2020,abilene-christian
+1,1102,Air Force,1985,2020,air-force
+2,1103,Akron,1985,2020,akron
+3,1104,Alabama,1985,2020,alabama
+4,1105,Alabama A&M,2000,2020,alabama-am
+5,1106,Alabama St,1985,2020,alabama-state
+6,1107,SUNY Albany,2000,2020,albany-ny
+7,1108,Alcorn St,1985,2020,alcorn-state
+9,1110,American Univ,1985,2020,american
+10,1111,Appalachian St,1985,2020,appalachian-state
+11,1112,Arizona,1985,2020,arizona
+12,1113,Arizona St,1985,2020,arizona-state
+13,1114,Ark Little Rock,1985,2020,arkansas-little-rock
+14,1115,Ark Pine Bluff,1999,2020,arkansas-pine-bluff
+15,1116,Arkansas,1985,2020,arkansas
+19,1120,Auburn,1985,2020,auburn
+21,1122,Austin Peay,1985,2020,austin-peay
+22,1123,Ball St,1985,2020,ball-state
+23,1124,Baylor,1985,2020,baylor
+24,1125,Belmont,2000,2020,belmont
+26,1127,Binghamton,2002,2020,binghamton
+28,1129,Boise St,1985,2020,boise-state
+29,1130,Boston College,1985,2020,boston-college
+30,1131,Boston Univ,1985,2020,boston-university
+32,1133,Bradley,1985,2020,bradley
+36,1137,Bucknell,1985,2020,bucknell
+37,1138,Buffalo,1992,2020,buffalo
+38,1139,Butler,1985,2020,butler
+39,1140,BYU,1985,2020,brigham-young
+40,1141,C Michigan,1985,2020,central-michigan
+41,1142,Cal Poly,1995,2020,cal-poly
+42,1143,California,1985,2020,california
+47,1148,Central Conn,1987,2020,central-connecticut-state
+49,1150,Charlotte,1985,2020,charlotte
+50,1151,Chattanooga,1985,2020,chattanooga
+52,1153,Cincinnati,1985,2020,cincinnati
+54,1155,Clemson,1985,2020,clemson
+55,1156,Cleveland St,1985,2020,cleveland-state
+56,1157,Coastal Car,1987,2020,coastal-carolina
+57,1158,Col Charleston,1992,2020,college-of-charleston
+58,1159,Colgate,1985,2020,colgate
+59,1160,Colorado,1985,2020,colorado
+60,1161,Colorado St,1985,2020,colorado-state
+62,1163,Connecticut,1985,2020,connecticut
+63,1164,Coppin St,1986,2020,coppin-state
+64,1165,Cornell,1985,2020,cornell
+65,1166,Creighton,1985,2020,creighton
+66,1167,CS Bakersfield,2008,2020,cal-state-bakersfield
+67,1168,CS Fullerton,1985,2020,cal-state-fullerton
+68,1169,CS Northridge,1991,2020,cal-state-northridge
+71,1172,Davidson,1985,2020,davidson
+72,1173,Dayton,1985,2020,dayton
+73,1174,Delaware,1985,2020,delaware
+74,1175,Delaware St,1985,2020,delaware-state
+76,1177,DePaul,1985,2020,depaul
+77,1178,Detroit,1985,2020,detroit-mercy
+78,1179,Drake,1985,2020,drake
+80,1181,Duke,1985,2020,duke
+82,1183,E Illinois,1985,2020,eastern-illinois
+83,1184,E Kentucky,1985,2020,eastern-kentucky
+85,1186,E Washington,1985,2020,eastern-washington
+89,1190,ETSU,1985,2020,east-tennessee-state
+91,1192,F Dickinson,1985,2020,fairleigh-dickinson
+93,1194,FL Atlantic,1994,2020,florida-atlantic
+94,1195,FL Gulf Coast,2008,2020,florida-gulf-coast
+95,1196,Florida,1985,2020,florida
+96,1197,Florida A&M,1985,2020,florida-am
+98,1199,Florida St,1985,2020,florida-state
+100,1201,Fresno St,1985,2020,fresno-state
+102,1203,G Washington,1985,2020,george-washington
+104,1205,Gardner Webb,2003,2020,gardner-webb
+105,1206,George Mason,1985,2020,george-mason
+106,1207,Georgetown,1985,2020,georgetown
+107,1208,Georgia,1985,2020,georgia
+108,1209,Georgia St,1985,2020,georgia-state
+109,1210,Georgia Tech,1985,2020,georgia-tech
+110,1211,Gonzaga,1985,2020,gonzaga
+113,1214,Hampton,1996,2020,hampton
+116,1217,Harvard,1985,2020,harvard
+117,1218,Hawaii,1985,2020,hawaii
+119,1220,Hofstra,1985,2020,hofstra
+120,1221,Holy Cross,1985,2020,holy-cross
+121,1222,Houston,1985,2020,houston
+126,1227,IL Chicago,1985,2020,illinois-chicago
+127,1228,Illinois,1985,2020,illinois
+130,1231,Indiana,1985,2020,indiana
+131,1232,Indiana St,1985,2020,indiana-state
+132,1233,Iona,1985,2020,iona
+133,1234,Iowa,1985,2020,iowa
+134,1235,Iowa St,1985,2020,iowa-state
+136,1237,IUPUI,1999,2020,iupui
+137,1238,Jackson St,1985,2020,jackson-state
+139,1240,Jacksonville St,1996,2020,jacksonville-state
+140,1241,James Madison,1985,2020,james-madison
+141,1242,Kansas,1985,2020,kansas
+142,1243,Kansas St,1985,2020,kansas-state
+144,1245,Kent,1985,2020,kent-state
+145,1246,Kentucky,1985,2020,kentucky
+146,1247,La Salle,1985,2020,la-salle
+147,1248,Lafayette,1985,2020,lafayette
+148,1249,Lamar,1985,2020,lamar
+149,1250,Lehigh,1985,2020,lehigh
+150,1251,Liberty,1989,2020,liberty
+151,1252,Lipscomb,2003,2020,lipscomb
+152,1253,Long Beach St,1985,2020,long-beach-state
+153,1254,LIU Brooklyn,1985,2020,long-island-university
+156,1257,Louisville,1985,2020,louisville
+158,1259,Loyola MD,1985,2020,loyola-md
+159,1260,Loyola-Chicago,1985,2020,loyola-il
+160,1261,LSU,1985,2020,louisiana-state
+163,1264,Manhattan,1985,2020,manhattan
+165,1266,Marquette,1985,2020,marquette
+166,1267,Marshall,1985,2020,marshall
+167,1268,Maryland,1985,2020,maryland
+168,1269,Massachusetts,1985,2020,massachusetts
+169,1270,McNeese St,1985,2020,mcneese-state
+171,1272,Memphis,1985,2020,memphis
+172,1273,Mercer,1985,2020,mercer
+173,1274,Miami FL,1986,2020,miami-fl
+174,1275,Miami OH,1985,2020,miami-oh
+175,1276,Michigan,1985,2020,michigan
+176,1277,Michigan St,1985,2020,michigan-state
+177,1278,Minnesota,1985,2020,minnesota
+178,1279,Mississippi,1985,2020,mississippi
+179,1280,Mississippi St,1985,2020,mississippi-state
+180,1281,Missouri,1985,2020,missouri
+183,1284,Monmouth NJ,1985,2020,monmouth
+184,1285,Montana,1985,2020,montana
+186,1287,Morehead St,1985,2020,morehead-state
+187,1288,Morgan St,1985,2020,morgan-state
+189,1290,MS Valley St,1985,2020,mississippi-valley-state
+190,1291,Mt St Mary's,1989,2020,mount-st-marys
+191,1292,MTSU,1985,2020,middle-tennessee
+192,1293,Murray St,1985,2020,murray-state
+193,1294,N Colorado,2005,2020,northern-colorado
+194,1295,N Dakota St,2006,2020,north-dakota-state
+196,1297,N Kentucky,2013,2020,northern-kentucky
+198,1299,NC A&T,1985,2020,north-carolina-at
+199,1300,NC Central,2008,2020,north-carolina-central
+200,1301,NC State,1985,2020,north-carolina-state
+203,1304,Nebraska,1985,2020,nebraska
+204,1305,Nevada,1985,2020,nevada
+206,1307,New Mexico,1985,2020,new-mexico
+207,1308,New Mexico St,1985,2020,new-mexico-state
+208,1309,New Orleans,1985,2020,new-orleans
+209,1310,Niagara,1985,2020,niagara
+212,1313,Norfolk St,1998,2020,norfolk-state
+213,1314,North Carolina,1985,2020,north-carolina
+214,1315,North Dakota,2009,2020,north-dakota
+215,1316,North Florida,2006,2020,north-florida
+216,1317,North Texas,1985,2020,north-texas
+217,1318,Northeastern,1985,2020,northeastern
+218,1319,Northern Arizona,1985,2020,northern-arizona
+219,1320,Northern Iowa,1985,2020,northern-iowa
+220,1321,Northwestern,1985,2020,northwestern
+221,1322,Northwestern LA,1985,2020,northwestern-state
+222,1323,Notre Dame,1985,2020,notre-dame
+223,1324,Oakland,2000,2020,oakland
+224,1325,Ohio,1985,2020,ohio
+225,1326,Ohio St,1985,2020,ohio-state
+227,1328,Oklahoma,1985,2020,oklahoma
+228,1329,Oklahoma St,1985,2020,oklahoma-state
+229,1330,Old Dominion,1985,2020,old-dominion
+230,1331,Oral Roberts,1985,2020,oral-roberts
+231,1332,Oregon,1985,2020,oregon
+232,1333,Oregon St,1985,2020,oregon-state
+233,1334,Pacific,1985,2020,pacific
+234,1335,Penn,1985,2020,pennsylvania
+235,1336,Penn St,1985,2020,penn-state
+236,1337,Pepperdine,1985,2020,pepperdine
+237,1338,Pittsburgh,1985,2020,pittsburgh
+239,1340,Portland St,1999,2020,portland-state
+240,1341,Prairie View,1985,2020,prairie-view
+242,1343,Princeton,1985,2020,princeton
+243,1344,Providence,1985,2020,providence
+244,1345,Purdue,1985,2020,purdue
+246,1347,Radford,1985,2020,radford
+247,1348,Rhode Island,1985,2020,rhode-island
+249,1350,Richmond,1985,2020,richmond
+251,1352,Robert Morris,1985,2020,robert-morris
+253,1354,S Carolina St,1985,2020,south-carolina-state
+254,1355,S Dakota St,2006,2020,south-dakota-state
+255,1356,S Illinois,1985,2020,southern-illinois
+257,1358,Sam Houston St,1987,2020,sam-houston-state
+258,1359,Samford,1985,2020,samford
+259,1360,San Diego,1985,2020,san-diego
+260,1361,San Diego St,1985,2020,san-diego-state
+263,1364,UC Santa Barbara,1985,2020,california-santa-barbara
+267,1368,SE Louisiana,1985,2020,southeastern-louisiana
+268,1369,SE Missouri St,1992,2020,southeast-missouri-state
+270,1371,Seton Hall,1985,2020,seton-hall
+271,1372,SF Austin,1987,2020,stephen-f-austin
+272,1373,Siena,1985,2020,siena
+273,1374,SMU,1985,2020,southern-methodist
+274,1375,South Alabama,1985,2020,south-alabama
+275,1376,South Carolina,1985,2020,south-carolina
+277,1378,South Florida,1985,2020,south-florida
+278,1379,Southern Miss,1985,2020,southern-mississippi
+279,1380,Southern Univ,1985,2020,southern
+280,1381,Southern Utah,1989,2020,southern-utah
+281,1382,St Bonaventure,1985,2020,st-bonaventure
+284,1385,St John's,1985,2020,st-johns-ny
+285,1386,St Joseph's PA,1985,2020,saint-josephs
+286,1387,St Louis,1985,2020,saint-louis
+287,1388,St Mary's CA,1985,2020,saint-marys-ca
+288,1389,St Peter's,1985,2020,saint-peters
+289,1390,Stanford,1985,2020,stanford
+291,1392,Stony Brook,2000,2020,stony-brook
+292,1393,Syracuse,1985,2020,syracuse
+293,1394,TAM C. Christi,2003,2020,texas-am-corpus-christi
+294,1395,TCU,1985,2020,texas-christian
+295,1396,Temple,1985,2020,temple
+296,1397,Tennessee,1985,2020,tennessee
+299,1400,Texas,1985,2020,texas
+300,1401,Texas A&M,1985,2020,texas-am
+302,1403,Texas Tech,1985,2020,texas-tech
+306,1407,Troy,1994,2020,troy
+308,1409,Tulsa,1985,2020,tulsa
+310,1411,TX Southern,1985,2020,texas-southern
+311,1412,UAB,1985,2020,alabama-birmingham
+312,1413,UC Davis,2005,2020,california-davis
+313,1414,UC Irvine,1985,2020,california-irvine
+315,1416,UCF,1985,2020,central-florida
+316,1417,UCLA,1985,2020,ucla
+317,1418,Louisiana,1985,2020,louisiana-lafayette
+319,1420,UMBC,1987,2020,maryland-baltimore-county
+320,1421,UNC Asheville,1987,2020,north-carolina-asheville
+321,1422,UNC Greensboro,1992,2020,north-carolina-greensboro
+322,1423,UNC Wilmington,1985,2020,north-carolina-wilmington
+323,1424,UNLV,1985,2020,nevada-las-vegas
+324,1425,USC,1985,2020,southern-california
+325,1426,UT Arlington,1985,2020,texas-arlington
+326,1427,UT San Antonio,1985,2020,texas-san-antonio
+327,1428,Utah,1985,2020,utah
+328,1429,Utah St,1985,2020,utah-state
+330,1431,UTEP,1985,2020,texas-el-paso
+332,1433,VCU,1985,2020,virginia-commonwealth
+333,1434,Valparaiso,1985,2020,valparaiso
+334,1435,Vanderbilt,1985,2020,vanderbilt
+335,1436,Vermont,1985,2020,vermont
+336,1437,Villanova,1985,2020,villanova
+337,1438,Virginia,1985,2020,virginia
+338,1439,Virginia Tech,1985,2020,virginia-tech
+342,1443,WKU,1985,2020,western-kentucky
+343,1444,W Michigan,1985,2020,western-michigan
+346,1447,Wagner,1985,2020,wagner
+347,1448,Wake Forest,1985,2020,wake-forest
+348,1449,Washington,1985,2020,washington
+349,1450,Washington St,1985,2020,washington-state
+350,1451,Weber St,1985,2020,weber-state
+351,1452,West Virginia,1985,2020,west-virginia
+352,1453,WI Green Bay,1985,2020,green-bay
+353,1454,WI Milwaukee,1991,2020,milwaukee
+354,1455,Wichita St,1985,2020,wichita-state
+356,1457,Winthrop,1987,2020,winthrop
+357,1458,Wisconsin,1985,2020,wisconsin
+358,1459,Wofford,1996,2020,wofford
+359,1460,Wright St,1988,2020,wright-state
+360,1461,Wyoming,1985,2020,wyoming
+361,1462,Xavier,1985,2020,xavier
+362,1463,Yale,1985,2020,yale
